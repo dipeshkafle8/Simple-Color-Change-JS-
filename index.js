@@ -1,5 +1,8 @@
 const container=document.getElementById('container');
 const btn=document.querySelector(".changeColor");
+
+//console.log(container.classList);
+//container.classList.toggle('value') -If you want to toggle between two particular class
 btn.addEventListener('click',()=>{
 if(container.classList[0]=='red'){
     container.classList.remove('red');
