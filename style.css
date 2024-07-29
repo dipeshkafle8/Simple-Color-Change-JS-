@@ -1,0 +1,15 @@
+div{
+    height:200px;
+    width:300px;
+    border-radius:50%;
+}
+
+.red{
+    background-color:red;
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color:blue;
+}
